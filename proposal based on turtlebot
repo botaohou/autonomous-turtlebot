@@ -1,0 +1,60 @@
+# Literature Review Proposal
+
+## Topic
+Implementation of Multi-Sensor Fusion with Unified Bird’s-Eye View Representation for Autonomous Navigation in TurtleBot Mobile Robots, Based on LiDAR-Camera Fusion
+
+## Background
+TurtleBot, an open-source mobile robot platform, is widely used in educational and research settings for robotics and autonomous system studies. Implementing a multi-sensor fusion mechanism that utilizes both LiDAR and camera data is critical for enhancing the robot's environmental perception and navigation capabilities. A unified Bird's-Eye View (BEV) representation can provide a more comprehensive understanding of the surroundings, leading to improved decision-making and autonomy in navigation tasks.
+
+## Objectives
+- To study and implement effective methods for fusing LiDAR and camera data in TurtleBot robots.
+- To develop a unified BEV representation that integrates data from multiple sensors for real-time navigation.
+- To evaluate the impact of sensor fusion on obstacle avoidance, path planning, and environmental mapping.
+
+## Research Questions
+- How can the TurtleBot platform be leveraged to perform advanced sensor fusion between LiDAR and camera inputs?
+- What are the benefits of using a unified BEV representation for the TurtleBot's autonomous navigation and how can it be implemented?
+- What challenges arise when adapting existing sensor fusion algorithms to a small-scale mobile robot platform like TurtleBot?
+
+## Methodology for Literature Research
+
+### Definition of Search Terms
+- TurtleBot Sensor Fusion
+- Bird’s-Eye View in Robotics
+- LiDAR-Camera Fusion Algorithms
+- Autonomous Navigation in Mobile Robots
+
+### Selection of Databases and Sources
+- IEEE Xplore
+- ScienceDirect
+- Google Scholar
+- SpringerLink
+- ArXiv for preprints
+- ROS.org for TurtleBot-specific resources
+
+### Search Strategy
+- Combine search terms in different configurations.
+- Use Boolean operators (AND, OR, NOT) to refine search results.
+- Use quotation marks for exact phrase searching.
+
+### Assessment of Relevance
+- Focus on research papers that discuss sensor fusion implementations in TurtleBot or similar mobile robots.
+- Review literature that outlines the challenges and solutions for small-scale robot navigation and perception.
+
+### Organization of Literature
+- Categorize research findings based on sensor types, fusion methods, and application outcomes.
+- Prioritize recent publications or those with a high impact on the field of mobile robotics.
+
+### Evaluation and Synthesis
+- Analyze the feasibility of implementing researched methods on the TurtleBot platform.
+- Synthesize findings to identify best practices and innovative approaches.
+
+### Documentation
+- Compile a detailed bibliography with annotations explaining the relevance of each source.
+- Develop a comprehensive report outlining the potential for enhancing TurtleBot's capabilities through multi-sensor fusion.
+
+## Expected Outcomes
+- A clear understanding of how multi-sensor fusion can be applied to TurtleBot robots.
+- A conceptual framework or prototype for a BEV system using LiDAR and camera data.
+- Insights into the practical considerations and limitations of sensor fusion in real-world scenarios.
+
