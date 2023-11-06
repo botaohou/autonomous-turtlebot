@@ -1,0 +1,51 @@
+# Literature Review Proposal
+
+## Topic
+Multi-Sensor Fusion with Unified Bird’s-Eye View Representation for Autonomous Vehicles, Based on LiDAR-Camera Fusion
+
+## Background
+Autonomous vehicles require precise environmental perception for safe navigation. 
+The fusion of data from multiple sensors—particularly LiDAR and cameras—provides a pathway to achieve robust and precise perception.
+By creating a unified Bird's-Eye View (BEV), it's possible to effectively utilize spatial information, enhancing decision-making processes for autonomous driving functions.
+
+## Research Questions
+- How can data from LiDAR and cameras be effectively fused to create a unified BEV representation?
+- What algorithms and methods are utilized for sensor fusion and calibration?
+- How does fusion impact real-time object detection and classification?
+- What challenges are present in sensor data fusion across different environments and weather conditions?
+
+## Methodology for Literature Research
+
+### Definition of Search Terms
+- Multi-Sensor Fusion
+- Bird’s-Eye View Representation
+- LiDAR-Camera Fusion
+- Perception in Autonomous Vehicles
+
+### Selection of Databases and Sources
+- IEEE Xplore
+- ScienceDirect
+- Google Scholar
+- SpringerLink
+- ArXiv for preprints
+
+### Search Strategy
+- Combine search terms in different configurations.
+- Apply Boolean operators (AND, OR, NOT) to refine search results.
+- Use quotation marks for exact phrase searching.
+
+### Assessment of Relevance
+- Initial selection based on titles and abstracts.
+- Evaluate the quality and relevance of sources by publication venues and citation numbers.
+
+### Organization of Literature
+- Utilize reference management tools like Zotero or Mendeley.
+- Create a thematic index to navigate the literature with ease.
+
+### Evaluation and Synthesis
+- Read and summarize key information and findings.
+- Identify research gaps and trends.
+
+### Documentation
+- Compile a bibliography.
+- Produce a report with summaries and critical assessments of the sources.
